@@ -17,11 +17,13 @@ I am proficient in both front-end and back-end development within the Next.js en
 
 Core Competencies Include:
 
-- Framework Expertise: Next.js 15+ (App Router & Pages Router), React 19+, Redux Toolkit, TanStack Query.
+- Framework Expertise: Next.js 16+ (App Router & Pages Router), React 19+, Redux Toolkit, TanStack Query.
 
 - Frontend Development: TypeScript, JavaScript (ES6+), Tailwind CSS, Shadcn/UI, Framer Motion, Zustand.
 
 - Backend Development: Next.js API Routes, Node.js, Express.js, RESTful API design, Authentication (Auth.js, Next-Auth).
+
+- Ecommerce & CMS development: Shopify, WordPress
 
 - Database & ORM: Prisma, MongoDB, PostgreSQL, Drizzle, Vercel Postgres.
 
